@@ -5,7 +5,7 @@
 class MyClassImpl {
 public:
     void printMessage() {
-        std::cout << "Hello from C++!" << std::endl;
+        std::cout << "Даров лысый" << std::endl;
     }
 };
 
