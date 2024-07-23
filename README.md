@@ -2,7 +2,6 @@
 
 This project demonstrates how to integrate Java and C++ code using JNI (Java Native Interface). The example includes a simple C++ class that can be called from a Java application.
 
-## Project Structure
 
 
 ## Prerequisites
